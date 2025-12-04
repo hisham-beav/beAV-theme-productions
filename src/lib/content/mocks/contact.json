@@ -1,0 +1,12 @@
+{
+  "title": "Contact Us",
+  "slug": "contact",
+  "heroImage": "/images/bav-hero.jpg",
+  "sections": [
+    {
+      "type": "contactForm",
+      "internalTitle": "Main Contact Form"
+    }
+  ]
+}
+

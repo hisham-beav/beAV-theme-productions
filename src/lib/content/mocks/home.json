@@ -1,0 +1,176 @@
+{
+  "slug": "home",
+  "title": "Home",
+  "sections": [
+    {
+      "type": "hero",
+      "eyebrow": "Audiovisual Excellence",
+      "headline": "Transforming Spaces with Cutting-Edge AV Solutions",
+      "subheadline": "From corporate boardrooms to dynamic public venues, we design and integrate audiovisual systems that captivate, communicate, and collaborate.",
+      "ctaLabel": "Our Solutions",
+      "ctaHref": "/solutions",
+      "secondaryCtaLabel": "Contact Us",
+      "secondaryCtaHref": "/contact",
+      "video": {
+        "src": "/videos/bav-hero-video.mp4",
+        "contentType": "video/mp4"
+      },
+      "cta": [
+        { "label": "Explore", "href": "/solutions" },
+        { "label": "Contact Us", "href": "/contact" }
+      ]
+    },
+    {
+      "type": "who_we_are",
+      "headline": "Who We Are",
+      "subheadline": "Empowering AV consultants and integrators with premium, reliable solutions.",
+      "image": {
+        "src": "/images/who-we-are-deco.jpg",
+        "alt": "A decorative image showing a modern office interior."
+      }
+    },
+    {
+      "type": "solutions",
+      "title": "Our Solutions",
+      "description": "Tailored AV systems for every environment.",
+      "items": [
+        {
+          "title": "Meeting rooms & Boardrooms",
+          "description": "Transform your meetings into intelligent, connected experiences. Our AV solutions bring clarity, control, and creativity to every discussion — ensuring ideas flow without interruption.",
+          "image": { "src": "/images/solutions/bnc-s-meeting.jpeg", "alt": "Smart Meeting Room" }
+        },
+        {
+          "title": "Hybrid Classrooms & Auditoriums",
+          "description": "Shape the future of learning with intelligent AV environments that connect students and educators anywhere, anytime. Our hybrid classroom solutions foster seamless collaboration through crystal-clear audio, interactive displays, and real-time engagement tools.",
+          "image": { "src": "/images/solutions/bnc-s-hybrid-classrooms.jpeg", "alt": "Hybrid Classroom" }
+        },
+        {
+          "title": "Command & Control Centers",
+          "description": "Our Command & Control Center solutions empower organizations to monitor, manage, and respond to critical operations in real-time across multiple sectors.",
+          "image": { "src": "/images/solutions/bnc-s-command-control .jpeg", "alt": "Command Center" }
+        },
+        {
+          "title": "Workplace Management",
+          "description": "Optimize productivity, enhance collaboration, and create smarter work environments with our Workplace Management solutions.",
+          "image": { "src": "/images/solutions/bnc-s-workspace.jpeg", "alt": "Workplace Management" }
+        },
+        {
+          "title": "Visitor Management",
+          "description": "Welcome, track, and manage every visitor with ease and professionalism through our advanced Visitor Management solutions.",
+          "image": { "src": "/images/solutions/bnc-s-visitor.jpeg", "alt": "Visitor Management" }
+        },
+        {
+          "title": "Integrated AV for Houses of Worship",
+          "description": "Elevate the spiritual experience with our Integrated AV solutions, designed to deliver crystal-clear audio, immersive visuals, and seamless communication for congregations of all sizes.",
+          "image": { "src": "/images/solutions/bnc-s-worship.jpeg", "alt": "Houses of Worship" }
+        },
+        {
+          "title": "Retail & Residential Automation",
+          "description": "Reimagine convenience, efficiency, and control with our Retail & Residential Automation solutions.",
+          "image": { "src": "/images/solutions/bnc-s-retail.jpeg", "alt": "Retail & Residential Automation" }
+        },
+        {
+          "title": "Cinema & Museum Solutions",
+          "description": "Bring stories and exhibits to life with our Cinema & Museum Solutions, designed to deliver immersive audio-visual experiences that captivate audiences.",
+          "image": { "src": "/images/solutions/bnc-s-cinema.jpeg", "alt": "Cinema & Museum Solutions" }
+        }
+      ]
+    },
+    {
+      "type": "brands",
+      "title": "Our Partners",
+      "items": [
+        {
+          "id": "1",
+          "name": "Canon",
+          "logo": {
+            "src": "/images/partners/bnc-canon.jpeg",
+            "alt": "Canon"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Crestron",
+          "logo": {
+            "src": "/images/partners/bnc-crestron.jpeg",
+            "alt": "Crestron"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Devialet",
+          "logo": {
+            "src": "/images/partners/bnc-devialet.jpeg",
+            "alt": "Devialet"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Insta360",
+          "logo": {
+            "src": "/images/partners/bnc-insta360.jpeg",
+            "alt": "Insta360"
+          }
+        },
+        {
+          "id": "5",
+          "name": "Viewsonic",
+          "logo": {
+            "src": "/images/partners/bnc-viewsonic.jpeg",
+            "alt": "Viewsonic"
+          }
+        }
+      ]
+    },
+    {
+      "type": "services",
+      "title": "Services We Provide",
+      "items": [
+        {
+          "title": "AV System Design & Consulting",
+          "description": "We provide end-to-end AV system design and consulting services that turn your vision into a fully functional and future-ready solution.",
+          "image": { "src": "/images/services/bnc-serv-design.jpeg", "alt": "AV System Design" }
+        },
+        {
+          "title": "Integration & Installation Support",
+          "description": "We ensure a seamless transition from design to reality through our expert integration and installation support.",
+          "image": { "src": "/images/services/bnc-serv-integration.jpeg", "alt": "Integration Support" }
+        },
+        {
+          "title": "Logistics & Supply Chain",
+          "description": "We provide efficient and reliable logistics and supply chain support to ensure your AV projects are delivered on time and in perfect condition.",
+          "image": { "src": "/images/services/bnc-serv-logistics.jpeg", "alt": "Logistics & Supply Chain" }
+        },
+        {
+          "title": "After-Sales & Technical Support",
+          "description": "Our commitment doesn’t end with installation—we continue to stand by you with dedicated after-sales and technical support.",
+          "image": { "src": "/images/services/bnc-serv-sales.jpeg", "alt": "After-Sales & Technical Support" }
+        }
+      ]
+    },
+    {
+      "type": "coverage",
+      "title": "Our Territory",
+      "subtitle": "Headquartered in the UAE, we provide project-driven support and distribution across the entire GCC region.",
+      "regions": [
+        "United Arab Emirates",
+        "Kingdom of Saudi Arabia",
+        "Qatar",
+        "Kuwait",
+        "Bahrain",
+        "Oman"
+      ]
+    },
+    {
+      "type": "whyus",
+      "title": "Why Choose Us",
+      "bullets": [
+        "Fewer brands, deeper value",
+        "Consultant-first approach",
+        "Premium support per project",
+        "Trusted channel network",
+        "Performance-led distribution"
+      ]
+    }
+  ]
+}

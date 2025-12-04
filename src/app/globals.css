@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+/* Optional design tokens */
+@theme {
+  --color-primary: #176D75; /* Teal */
+  --color-primary-rgb: 23, 109, 117;
+  --color-primary-tint: rgba(23, 109, 117, 0.1);
+  --color-secondary: #9db4ad; /* Light Grey-Green */
+  --color-dark: #021f2f; /* Dark Background */
+  --color-light-bg: #F8F9FA;
+}
+
+html, body { height: 100%; }
+html {
+  scroll-behavior: smooth;
+}
+body { @apply text-[var(--color-dark)] bg-[var(--color-light-bg)]; }
+a { @apply underline-offset-2; }
+
+/* Make Swiper autoplay feel continuous (marquee-like) */
+.swiper-wrapper {
+  transition-timing-function: linear !important;
+}
+
+.swiper-brands .swiper-wrapper {
+  transition-timing-function: linear !important;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 40s linear infinite;
+}
